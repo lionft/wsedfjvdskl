@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x2cCDcA1464D95b4245ec182d5B4eff7D7169944D",
+  "CONTRACT_ADDRESS": "0xA9cdC7851df069b2A97b2fBd23259075aAe6bed4",
+
+  "SCAN_LINK": "https://Etherscan.com/0xA9cdC7851df069b2A97b2fBd23259075aAe6bed4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "The Crazy Apes",
+  "SYMBOL": "TCA",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 69000000000000000,
+  "COST1": 9900000000000000000000000000,
+
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Thecrazyapes",
+  "SHOW_BACKGROUND": true
+}
